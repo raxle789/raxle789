@@ -1,7 +1,6 @@
-
 # 💫 About Me:
 ### Hi there, I'm Fatih 👋 
-![CAT](https://github.com/raxle789/raxle789/assets/90817390/7a29fb7e-2b9e-4e58-970a-4f8f5bf48837)
+<img src="https://github.com/raxle789/raxle789/assets/90817390/7a29fb7e-2b9e-4e58-970a-4f8f5bf48837" width="300">
 
 
 ## 🌐 Socials:
