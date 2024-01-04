@@ -9,11 +9,12 @@
 
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raxle789&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raxle789&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raxle789&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raxle789&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="raxle789" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raxle789&theme=tokyonight&hide_border=false" alt="raxle789" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxle789&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="raxle789" /></p> 
 
 
 # Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raxle789) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdalfatih) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
