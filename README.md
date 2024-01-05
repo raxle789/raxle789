@@ -6,8 +6,9 @@ I am a 3rd-year student of Informatics Engineering at UPN "Veteran" Jawa Timur a
 
 # GitHub Stats:
 <!-- <p>&nbsp;<img decoding="async" loading="lazy" align="center" src="https://github-readme-stats.vercel.app/api?username=raxle789&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="raxle789" /></p> 
-<p><img decoding="async" loading="lazy" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxle789&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="raxle789" /></p> -->
-<p><img decoding="async" loading="lazy" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raxle789&theme=tokyonight&hide_border=false" alt="raxle789" /></p> 
+<p><img decoding="async" loading="lazy" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxle789&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="raxle789" /></p> 
+<p><img decoding="async" loading="lazy" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raxle789&theme=tokyonight&hide_border=false" alt="raxle789" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raxle789&" alt="raxle789" /></p>
 
 
 # Tech Stack:
