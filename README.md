@@ -4,11 +4,22 @@ I am a 3rd-year student of Informatics Engineering at UPN "Veteran" Jawa Timur a
 
 <img src="https://github.com/raxle789/raxle789/assets/90817390/7a29fb7e-2b9e-4e58-970a-4f8f5bf48837" width="250">
 
-# GitHub Stats:
-<!-- <p>&nbsp;<img decoding="async" loading="lazy" align="center" src="https://github-readme-stats.vercel.app/api?username=raxle789&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="raxle789" /></p> 
+<br>
+In addition, I also created beautiful images using JavaScript.
+
+### Flower
+<img src="https://github.com/raxle789/raxle789/assets/90817390/3d2e886b-6b82-474c-a9e9-05db42177cc0" width="300">
+<img src="https://github.com/raxle789/raxle789/assets/90817390/6b286ad4-40ff-4163-aa51-e15ea3dd5b17" width="300">
+
+### Letter
+<img src="https://github.com/raxle789/raxle789/assets/90817390/0cee79ed-3095-44f2-91d9-7e3cc97ded75" width="300">
+<img src="https://github.com/raxle789/raxle789/assets/90817390/905e8982-5e5a-42f6-b65b-b1db693b3c52" width="300">
+
+
+<!-- # GitHub Stats:
+ <p>&nbsp;<img decoding="async" loading="lazy" align="center" src="https://github-readme-stats.vercel.app/api?username=raxle789&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="raxle789" /></p> 
 <p><img decoding="async" loading="lazy" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxle789&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="raxle789" /></p> 
 <p><img decoding="async" loading="lazy" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raxle789&theme=tokyonight&hide_border=false" alt="raxle789" /></p> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raxle789&" alt="raxle789" /></p>
 
 
 # Tech Stack:
