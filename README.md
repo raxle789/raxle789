@@ -1,6 +1,6 @@
 # About Me:
 ### Hi there, I'm Fatih 👋 
-I am a 4th-year student of Informatics Engineering at UPN "Veteran" Jawa Timur and has a high curiosity with a strong passion for various fields in the realm of technology. I love building web projects using ReactJS, one of which is a rote management web supported by Firebase, and Firestore. Furthermore, I am open to exploring other areas within the field of computer science and technology. I am always eager to learn and adapt to new technologies and frameworks.
+I am a fresh graduate of Informatics Engineering at UPN "Veteran" Jawa Timur who has a high curiosity and a strong passion for various fields in the realm of technology. I have completed 14 web projects, one of which is an online store web supported by Next.js, Firebase, and Typescript. Furthermore, I am open to exploring other areas within the field of computer science and technology. I am always eager to learn and adapt to new technologies and frameworks.
 
 <img src="https://github.com/raxle789/raxle789/assets/90817390/7a29fb7e-2b9e-4e58-970a-4f8f5bf48837" width="250">
 
